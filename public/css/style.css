@@ -18,9 +18,9 @@ h2 {
   color: #efefef;
 }
 
-/* #messages {
+#messages {
   padding: none;
-} */
+}
 
 .msg {
   margin-bottom: 1rem;
